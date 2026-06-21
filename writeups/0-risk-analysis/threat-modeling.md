@@ -17,10 +17,8 @@ Este documento é um relatório de modelagem de ameaças de um servidor caseiro,
 #### Dependências Externas
 | ID | Nome | Descrição |
 | :--- | :--- | :--- |
-| **1** | **Infraestrutura de Rede** | **Serviços externos necessários para a conectividade básica.** |
-| 1.1 | Provedor de Internet (ISP) | Fornece o link de internet e o roteamento inicial da rede doméstica. |
-| **2** | **Serviços de Terceiros** | **Plataformas externas integradas para funcionalidades do servidor.** |
-| 2.1 | Infraestrutura Tailscale | Coordena as conexões da rede privada virtual (VPN) e o MagicDNS. |
+| 1 | Provedor de Internet (ISP) | Fornece o link de internet e o roteamento inicial da rede doméstica. |
+| 2 | Serviços do CasaOS | Plataformas externas integradas via AppStore do CasaOS. |
 
 #### Pontos de Entrada
 | ID | Nome | Descrição | Quem tem acesso |
