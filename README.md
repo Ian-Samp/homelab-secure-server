@@ -10,6 +10,7 @@ Este projeto visa documentar o processo de desenvolvimento, proteção e otimiza
   - **Armazenamento:** 1TB (HD)
 - **Sistema Operacional:** Ubuntu Server 24.04 LTS
 - **Gerenciador de Serviços:** CasaOS
+- **Hostname:** moony
 - **Início do Desenvolvimento:** Abril, 2026
 
 ## Destaques do Projeto
