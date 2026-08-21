@@ -1,24 +1,13 @@
 # Homelab - Secure Server
-
-## Objetivo
-
-Este projeto documenta a evolução de um servidor doméstico (homelab) focado em serviços self-hosted. O objetivo do projeto é, iniciando com uma infraestrutura mínima, transformar o homelab em um ambiente seguro, aplicando técnicas de hardening, monitoramento e segurança em camadas.
+## Visão Geral
+### Objetivo
+Este projeto visa documentar o processo de desenvolvimento, proteção e otimização de um servidor Linux caseiro (home lab) de serviços auto-hospedados construído a partir de um notebook antigo. Espero conseguir demonstrar a evolução, não apenas do servidor, mas principalmente de meus conhecimentos em relação à redes de computador, hardware, terminal Linux e defesa em profundidade.
 
 ## Informações do Servidor
-- **Hardware:** notebook antigo (4GB RAM; 2 núcleos)
+- **Hardware:** notebook Samsung antigo
+  - **Processador:** Intel i3 (2 núcleos)
+  - **Memória RAM:** 4 GB
+  - **Armazenamento:** 1TB (HD)
 - **Sistema Operacional:** Ubuntu Server 24.04 LTS
 - **Gerenciador de Serviços:** CasaOS
-
-## 🔎 Pilar 0: Análise de Riscos
-- [Em Progresso] **Modelagem de Ameaças:** análise de ativos críticos e superfície de ataque.
-- [ ] **Inventário de Serviços:** mapeamento de portas abertas e contêiners ativos.
-
-## 🛡️ Pilar 1: Hardening de Sistema Operacional e Rede
-- [ ] **Firewall Local:**
-
-## 🌐 Pilar 2: Acesso Remoto Seguro
-- [ ] **Criptografia em Trânsito:** certificado (HTTPS) via Tailscale como prevenção de Man-In-The-Middle durante uso remoto do CasaOS.
-
-## 📊 Pilar 3: Monitoramento & Defesa Ativa
-- [ ] **Defesa Ativa:** configuração de Fail2Ban em SSH para banimento automático de IPs maliciosos.
-- [ ] **Gerenciamento de logs (SIEM):** centralização e auditoria do sistema em repositório seguro.
+- **Início do Desenvolvimento:** Abril, 2026
