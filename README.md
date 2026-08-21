@@ -16,6 +16,6 @@ Este projeto visa documentar o processo de desenvolvimento, proteção e otimiza
 ## Destaques do Projeto
 | Ação | Descrição |
 | :--- |   :---    |
-| Redução de Overhead | Conversão para Headless resiultando na economia de 10% de memória RAM desperdiçada pela GUI |
-| Acesso Remoto Seguro | VPN Mesh via Tailscale permitindo acesso remoto sem necessidade de abrir portas do roteador para internet |
+| Redução de Overhead | Conversão para Headless resultando na economia de 10% de memória RAM desperdiçada pela GUI |
+| Acesso Remoto Seguro | VPN Mesh via Tailscale permitindo acesso remoto sem necessidade de port forwarding do roteador |
 | Detector de Brute Force (SSH) | Mini-SIEM gera alerta imediatamente ao detectar múltiplas falhas de acesso remoto via SSH |
