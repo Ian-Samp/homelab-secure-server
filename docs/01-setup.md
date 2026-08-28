@@ -1,10 +1,19 @@
-# 01. Setup
-### Resumo
-Este documento registra o processo de instalação, troubleshooting e configuração de rede do servidor **moony**.
+# Setup do Servidor
+> Arquitetura & Devlog
 
-### Informações do Dispositivo
-O hardware designado para este projeto foi um notebook antigo que já não era mais utilizado. Possuia sistema operacional Windows 10 que foi substituído pelo Ubuntu 
-24.02 LTS. A distro Linux foi escolhida pois seria meu primeiro contato com o ambiente Linux e uma pesquisa prévia indicava que seria a mais simples para
-iniciantes, mesmo sabendo que outras distros (como Debian) possuiriam melhor performance.
+## Visão Geral
+O desenvolvimento do servidor **moony** é um projeto em constante evolução. Neste arquivo documento a implantação, a arquitetura adotada, o troubleshooting de infraestrutura e otimizações aplicadas, desde os primeiros passos. Para facilitar sua leitura, separo em duas seções:  
+  1. Arquitetura
+  2. Devlog
 
-Informações mais detalhadas do hardware podem ser consultadas no [README](../README.md)
+---
+## Arquitetura
+
+### 1. Baseline de Hardware
+
+### 2. Otmização e Hardening
+
+### 3. Conectividade
+
+---
+## Devlog
