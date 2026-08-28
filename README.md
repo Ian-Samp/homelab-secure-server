@@ -1,10 +1,10 @@
 ![](assets/homelab_banner.png)
 ## Visão Geral
 ### Objetivo
-Este projeto visa documentar o processo de desenvolvimento, proteção e otimização de um servidor Linux caseiro (home lab) de serviços auto-hospedados construído a partir de um notebook antigo. Espero conseguir demonstrar a evolução, não apenas do servidor, mas principalmente de meus conhecimentos em relação à redes de computador, hardware, terminal Linux e defesa em profundidade.
+O servidor **moony** foi construido a partir de um hardware reaproveitado com a finalidade de hostear serviços auto-hospedados e servir como um ambiente controlado para laboratórios de cibersegurança. Espero conseguir demonstrar a evolução, não apenas do servidor, mas principalmente dos meus conhecimentos em relação a redes de computadores, hardware, terminal Linux e defesa em profundidade.
 
 ### Informações do Servidor
-- **Hardware:** notebook Samsung antigo
+- **Hardware:** Notebook Samsung antigo
   - **Processador:** Intel i3 (2 núcleos)
   - **Memória RAM:** 4 GB
   - **Armazenamento:** 1TB (HD)
